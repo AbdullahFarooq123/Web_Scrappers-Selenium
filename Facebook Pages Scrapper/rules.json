@@ -1,0 +1,87 @@
+{
+    "10-500": {
+        "likes": "20%",
+        "view videos": "40%",
+        "video posts like": "38%"
+    },
+    "500-1000": {
+        "likes": "19%",
+        "view videos": "39%",
+        "video posts like": "37%"
+    },
+    "1000-2000": {
+        "likes": "18%",
+        "view videos": "38%",
+        "video posts like": "35%"
+    },
+    "2000-3000": {
+        "likes": "17%",
+        "view videos": "37%",
+        "video posts like": "34%"
+    },
+    "3000-4000": {
+        "likes": "16%",
+        "view videos": "36%",
+        "video posts like": "32%"
+    },
+    "4000-5000": {
+        "likes": "15%",
+        "view videos": "35%",
+        "video posts like": "31%"
+    },
+    "5000-6000": {
+        "likes": "14%",
+        "view videos": "34%",
+        "video posts like": "29%"
+    },
+    "6000-7000": {
+        "likes": "13%",
+        "view videos": "33%",
+        "video posts like": "28%"
+    },
+    "7000-8000": {
+        "likes": "12%",
+        "view videos": "32%",
+        "video posts like": "27%"
+    },
+    "8000-9000": {
+        "likes": "11%",
+        "view videos": "31%",
+        "video posts like": "26%"
+    },
+    "9000-10000": {
+        "likes": "10%",
+        "view videos": "30%",
+        "video posts like": "25%"
+    },
+    "10000-11000": {
+        "likes": "9%",
+        "view videos": "29%",
+        "video posts like": "24%"
+    },
+    "11000-12000": {
+        "likes": "8%",
+        "view videos": "28%",
+        "video posts like": "23%"
+    },
+    "12000-13000": {
+        "likes": "7%",
+        "view videos": "27%",
+        "video posts like": "22%"
+    },
+    "13000-14000": {
+        "likes": "6%",
+        "view videos": "26%",
+        "video posts like": "21%"
+    },
+    "14000-15000": {
+        "likes": "5%",
+        "view videos": "25%",
+        "video posts like": "20%"
+    },
+    "15000-infinity": {
+        "likes": "3%",
+        "view videos": "24%",
+        "video posts like": "19%"
+    }
+}
